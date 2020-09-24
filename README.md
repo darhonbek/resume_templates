@@ -4,7 +4,7 @@
 
 Hard skills
 - [Summary/Architecture](#summary/architecture)
-- [Technical skills](#technical-skills)
+- [Technical skills](#technical-skills-and-achievements)
 - [SDE Processes](#sde-processes)
 
 Soft skills
