@@ -1,5 +1,7 @@
 # Result oriented resume templates for engineers
 
+See [example resume](https://gist.github.com/darhonbek/208df5a3113fa73e1f03647b407be1e7) built using this template.
+
 ### Table of contents:
 
 Hard skills
