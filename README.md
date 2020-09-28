@@ -2,6 +2,7 @@
 
 See [example resume](https://gist.github.com/darhonbek/208df5a3113fa73e1f03647b407be1e7) built using this template.
 
+
 ### Table of contents:
 
 Hard skills
@@ -19,6 +20,7 @@ Soft skills
 - Template achievement.
 > Template example.
 
+
 ## Hard Skills
 
 ### Summary/Architecture
@@ -28,6 +30,7 @@ Soft skills
 
 - Developed \<ARCHITECTURE NAME>, \<ARCHITECTURE EXPLANATION>. That allowed to \<LIST OF BENEFITS>.
 > Developed backend driven UI architecture, where screens and interactions are defined by JSON. That allowed to instantly push updates to users without them having to update the app. Think of it as a mobile browser engine.
+
 
 ### Technical skills and achievements
 
@@ -52,6 +55,7 @@ Soft skills
 - A11Y: implemented accessibility for \<COMPONENT YOU MADE ACCESSIBLE>.
 > A11Y: implemented accessibility navigation for complex UI elements. Ex.: interactive chart.
 
+
 ### SDE Processes
 
 - Reviewed \<X> pull requests daily using \<CODE REVIEW GUIDELINE NAME>.
@@ -63,17 +67,18 @@ Soft skills
 - Interviewed \<X> candidates for \<TECHNOLOGY NAME> position.
 > Interviewed 10 candidates for iOS engineer position.
 
+
 ## Soft Skills
 
 ### Collaboration
 
-- Collaborated with \<ABC> engineers to develop \<XYZ>
+- Collaborated with \<ABC> engineers to develop \<XYZ>.
 > Collaborated with backend and Android engineers to develop REST API contracts.
 
 > Collaborated with designers and created programmatic UI using Swift.
 
 - Worked with a cross-functional team of \<X> people: \<LIST OF TEAMS>.
-> Worked with a cross-functional team of 50 people: mobile and backend engineers, designers, QA, data analytics.<br>
+> Worked with a cross-functional team of 50 people: mobile and backend engineers, designers, QA, data analytics.
 
 
 ### Mentorship
@@ -81,7 +86,7 @@ Soft skills
 - Mentored \<X> junior engineers.
 > Mentored 2 junior engineers.
 
-- Trained \<X> poeple to \<LIST OF TECHNOLOGIES>.
+- Trained \<X> people to \<LIST OF TECHNOLOGIES>.
 > Trained over 500 children aged between 9-16 to computer programming, game development, basics of algorithms, and data structures using Scratch, Minecraft, and C++.
 
 - Onboarded \<X> new hires.
