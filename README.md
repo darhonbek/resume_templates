@@ -60,6 +60,9 @@ Soft skills
 - Co-authored code standards for \<TEAM NAME> of \<X> people.
 > Co-authored code standards for iOS team of 10 people.
 
+- Interviewed \<X> candidates for \<TECHNOLOGY NAME> position.
+> Interviewed 10 candidates for iOS engineer position.
+
 ## Soft Skills
 
 ### Collaboration
