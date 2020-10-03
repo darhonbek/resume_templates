@@ -3,6 +3,7 @@
 See resumes built using this template:
 - [iOS](https://gist.github.com/darhonbek/208df5a3113fa73e1f03647b407be1e7)
 
+
 ### Table of contents:
 
 Hard skills
@@ -19,6 +20,7 @@ Soft skills
 
 - Template achievement.
 > Template example.
+
 
 ## Hard Skills
 
@@ -65,6 +67,7 @@ Soft skills
 implementing accessibility for \<COMPONENT YOU MADE ACCESSIBLE>.
 > A11Y: improved accessibility of 5 screens by implementing accessibility navigation for complex UI elements. Ex.: interactive chart.
 
+
 ### SDE Processes
 
 - Reviewed \<X> pull requests daily using \<CODE REVIEW GUIDELINE NAME>.
@@ -73,20 +76,24 @@ implementing accessibility for \<COMPONENT YOU MADE ACCESSIBLE>.
 - Co-authored code standards for \<TEAM NAME> of \<X> people.
 > Co-authored code standards for iOS team of 10 people.
 
-- Speed up \<PROCESS NAME> by \<X>% by \<ACTION NAME>.
+- Speed up \<PROCESS NAME> by \<X> by \<ACTION NAME>.
 > Speed up provisioning profile distribution process from 7 minutes to 1 minute by creating shell scripts to encrypt, decrypt, install provisioning profiles.
+
+- Interviewed \<X> candidates for \<TECHNOLOGY NAME> position.
+> Interviewed 10 candidates for iOS engineer position.
+
 
 ## Soft Skills
 
 ### Collaboration
 
-- Collaborated with \<ABC> engineers to develop \<XYZ>
+- Collaborated with \<ABC> engineers to develop \<XYZ>.
 > Collaborated with backend and Android engineers to develop REST API contracts.
 
 > Collaborated with designers and created programmatic UI using Swift.
 
 - Worked with a cross-functional team of \<X> people: \<LIST OF TEAMS>.
-> Worked with a cross-functional team of 50 people: mobile and backend engineers, designers, QA, data analytics.<br>
+> Worked with a cross-functional team of 50 people: mobile and backend engineers, designers, QA, data analytics.
 
 
 ### Mentorship
@@ -94,7 +101,7 @@ implementing accessibility for \<COMPONENT YOU MADE ACCESSIBLE>.
 - Mentored \<X> junior engineers.
 > Mentored 2 junior engineers.
 
-- Trained \<X> poeple to \<LIST OF TECHNOLOGIES>.
+- Trained \<X> people to \<LIST OF TECHNOLOGIES>.
 > Trained over 500 children aged between 9-16 to computer programming, game development, basics of algorithms, and data structures using Scratch, Minecraft, and C++.
 
 - Onboarded \<X> new hires.
