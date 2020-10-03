@@ -1,11 +1,12 @@
 # Result oriented resume templates for engineers
 
-See [example resume](https://gist.github.com/darhonbek/208df5a3113fa73e1f03647b407be1e7) built using this template.
+See resumes built using this template:
+- [iOS](https://gist.github.com/darhonbek/208df5a3113fa73e1f03647b407be1e7)
 
 ### Table of contents:
 
 Hard skills
-- [Summary/Architecture](#summary/architecture)
+- [Summary and Architecture](#summary-and-architecture)
 - [Technical skills](#technical-skills-and-achievements)
 - [SDE Processes](#sde-processes)
 
@@ -21,36 +22,48 @@ Soft skills
 
 ## Hard Skills
 
-### Summary/Architecture
+### Summary and Architecture
 
-- Wrote high-quality code using \<ARCHITECTURE NAME> with \<TECHNOLOGY NAME> and covering code with \<TEST TYPES> resulting in \<X>% test coverage.
-> Wrote high-quality code using MVVM architecture with RX and covering code with unit tests and UI automation tests, resulting in 90% test coverage.
+- Achieved \<X>% test coverage by writing high-quality code using \<ARCHITECTURE NAME> with \<TECHNOLOGY NAME> and covering code with \<TEST TYPES>.
+
+> Achieved 90% test coverage by writing code using MVVM architecture with RX and covering code with unit tests and UI automation tests.
+
+- Improved \<testability / scalability / stability> of the \<app / system> by \<X>% by replacing \<LEGACY ARCHITECTURE NAME> with \<NEW ARCHITECTURE NAME>.
+> Improved testability of the app by 50% by replacing MVC architecture with MVVM.
 
 - Developed \<ARCHITECTURE NAME>, \<ARCHITECTURE EXPLANATION>. That allowed to \<LIST OF BENEFITS>.
 > Developed backend driven UI architecture, where screens and interactions are defined by JSON. That allowed to instantly push updates to users without them having to update the app. Think of it as a mobile browser engine.
+
 
 ### Technical skills and achievements
 
 - Enhanced \<app's / system's> core feature by \<X>% by \<integrating / implementing / developing> \<TECHNOLOGY NAME>.
 > Enhanced app's core feature by 30% by integrating Machine Learning text recognition solution (ML OCR) into the app.
 
-- Speed up \<PROCESS NAME> by \<X>% by \<ACTION NAME>.
-> Speed up provisioning profile distribution process from 7 minutes to 1 minute by creating shell scripts to encrypt, decrypt, install provisioning profiles.
-
 - Saved \<X> developer hours by \<ACTION NAME>.
-> Saved 150 developer hours by documenting guideline to create common UI components, that improved development speed by 50%.
+> Saved 150 developer hours by documenting guideline to create common UI components, that speed up development by 50%.
+
+- Reduced \<app's / system's> \<battery / memory / network> consumption by \<X>% \<ACTION NAME>.
+> Reduced app's battery consumption by 30% by improving data synchronization mechanism, which allowed to synchronize large data only on Wi-Fi network and while connected to the power source.
+
+- Speed up \<app's / system's / site's> \<start up / load> time by \<X>% by \<ACTION NAME>.
+> Speed up app's startup time by 70% by improving caching mechanism.
+
+> Speed up page load time by 70% by pre-loading most popular content for the user.
+
+- \<NUMERIC RESULT>. Achieved by \<migrating / converting> \<codebase / database / service / cloud> from \<OLD STUFF> to \<NEW STUFF>.
+> Reduced legacy code by 25% by migrating old codebase from Objective-C to Swift. Brought down from 60,000 lines of code to 45,000.
+
+> Reduced XIB and Storyboard UI files from 26 to 12 by converting them to Swift using UIKit.
 
 - Implemented new features: \<LIST OF FEATURES> using \<LIST OF TECHNOLOGIES>.
 > Implemented new features: user forms with input validation (100% programmatic UI), custom UI components, file upload, and data exchange with backend using REST.
 
 > Implemented 100% programmatic UI in Swift using UIKit.
 
-- \<Migrated / converted> \<codebase / database / service / cloud> from \<OLD STUFF> to \<NEW STUFF>. \<NUMERIC RESULT>.
-> Migrated old codebase from Objective-C to Swift. Brought down from ~60,000 lines of code to ~45,000.
-> Converted XIB and Storyboard UI files to Swift. Reduced XIB files from 26 to 12.
-
-- A11Y: implemented accessibility for \<COMPONENT YOU MADE ACCESSIBLE>.
-> A11Y: implemented accessibility navigation for complex UI elements. Ex.: interactive chart.
+- A11Y: improved accessibility of \<X> screens by
+implementing accessibility for \<COMPONENT YOU MADE ACCESSIBLE>.
+> A11Y: improved accessibility of 5 screens by implementing accessibility navigation for complex UI elements. Ex.: interactive chart.
 
 ### SDE Processes
 
@@ -59,6 +72,9 @@ Soft skills
 
 - Co-authored code standards for \<TEAM NAME> of \<X> people.
 > Co-authored code standards for iOS team of 10 people.
+
+- Speed up \<PROCESS NAME> by \<X>% by \<ACTION NAME>.
+> Speed up provisioning profile distribution process from 7 minutes to 1 minute by creating shell scripts to encrypt, decrypt, install provisioning profiles.
 
 ## Soft Skills
 
@@ -84,5 +100,5 @@ Soft skills
 - Onboarded \<X> new hires.
 > Onboarded 3 new hires.
 
-- Improved onboarding process by creating \<CONTENT NAME>.
-> Improved onboarding process by recording video for dev environment setup, which saved 0,5 hour per developer.
+- \<NUMERIC RESULT> by creating \<CONTENT NAME> which improved onboarding process.
+> Saved 0,5 hour per developer by recording video for dev environment setup, which improved onboarding process.
