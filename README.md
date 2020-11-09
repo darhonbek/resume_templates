@@ -2,6 +2,7 @@
 
 See resumes built using this template:
 - [iOS](https://gist.github.com/darhonbek/208df5a3113fa73e1f03647b407be1e7)
+- Backend. Coming soon.
 
 
 ### Table of contents:
@@ -33,6 +34,8 @@ Soft skills
 - Improved \<testability / scalability / stability> of the \<app / system> by \<X>% by replacing \<LEGACY ARCHITECTURE NAME> with \<NEW ARCHITECTURE NAME>.
 > Improved testability of the app by 50% by replacing MVC architecture with MVVM.
 
+> Improved app's crash free rate from 80% to 99.8% by writing 4,000 unit tests that helped to identify 30 defects and fix them.
+
 - Developed \<ARCHITECTURE NAME>, \<ARCHITECTURE EXPLANATION>. That allowed to \<LIST OF BENEFITS>.
 > Developed backend driven UI architecture, where screens and interactions are defined by JSON. That allowed to instantly push updates to users without them having to update the app. Think of it as a mobile browser engine.
 
@@ -48,10 +51,16 @@ Soft skills
 - Reduced \<app's / system's> \<battery / memory / network> consumption by \<X>% \<ACTION NAME>.
 > Reduced app's battery consumption by 30% by improving data synchronization mechanism, which allowed to synchronize large data only on Wi-Fi network and while connected to the power source.
 
+> Reduced app's size from 100Mb down to 67Mb by removing unnecessary dependencies and using native libraries whenever possible.
+
 - Speed up \<app's / system's / site's> \<start up / load> time by \<X>% by \<ACTION NAME>.
 > Speed up app's startup time by 70% by improving caching mechanism.
 
 > Speed up page load time by 70% by pre-loading most popular content for the user.
+
+> Speed up project's clean build and iterative build times by 400% by using Bazel build system instead of Xcode, which allowed better caching.
+
+> Speed up provisioning profile distribution process from 7 minutes to 1 minute by creating shell scripts to encrypt, decrypt, install provisioning profiles.
 
 - \<NUMERIC RESULT>. Achieved by \<migrating / converting> \<codebase / database / service / cloud> from \<OLD STUFF> to \<NEW STUFF>.
 > Reduced legacy code by 25% by migrating old codebase from Objective-C to Swift. Brought down from 60,000 lines of code to 45,000.
@@ -76,9 +85,6 @@ implementing accessibility for \<COMPONENT YOU MADE ACCESSIBLE>.
 - Co-authored code standards for \<TEAM NAME> of \<X> people.
 > Co-authored code standards for iOS team of 10 people.
 
-- Speed up \<PROCESS NAME> by \<X> by \<ACTION NAME>.
-> Speed up provisioning profile distribution process from 7 minutes to 1 minute by creating shell scripts to encrypt, decrypt, install provisioning profiles.
-
 - Interviewed \<X> candidates for \<TECHNOLOGY NAME> position.
 > Interviewed 10 candidates for iOS engineer position.
 
@@ -99,7 +105,7 @@ implementing accessibility for \<COMPONENT YOU MADE ACCESSIBLE>.
 ### Mentorship
 
 - Mentored \<X> junior engineers.
-> Mentored 2 junior engineers.
+> Mentored 2 Junior Engineers (L3) and helped them grow to Middle Engineers (L4) in 11 months.
 
 - Trained \<X> people to \<LIST OF TECHNOLOGIES>.
 > Trained over 500 children aged between 9-16 to computer programming, game development, basics of algorithms, and data structures using Scratch, Minecraft, and C++.
